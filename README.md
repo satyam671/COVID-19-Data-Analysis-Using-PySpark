@@ -108,7 +108,7 @@ For a detailed overview of the findings, please take a look at the results secti
 
 ### 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/satyam671/COVID-19-Data-Analysis-With-Pyspark/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/satyam671/COVID-19-Data-Analysis-Using-PySpark/issues) if you want to contribute.
 
 ### 📝 License
 
