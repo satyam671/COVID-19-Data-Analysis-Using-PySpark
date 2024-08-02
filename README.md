@@ -65,7 +65,7 @@ Instructions on how to set up and run the project:
 ### Running the Project
 1. **Clone the Repository**: 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/satyam671/COVID-19-Data-Analysis-Using-PySpark.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
