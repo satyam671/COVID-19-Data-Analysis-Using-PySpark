@@ -1,5 +1,5 @@
 # COVID-19 Data Analysis Using PySpark
-![1_y2SsUh89eQShLdIipSO4eg](https://github.com/user-attachments/assets/1bc9403b-6b33-443d-8286-9640b4d9bf88)
+![1_y2SsUh89eQShLdIipSO4eg](https://github.com/user-attachments/assets/0a8b8416-ba41-4d6a-a588-129f4f6026cd)
 
 ## Decoding the Pandemic: A Big Data Approach
 
