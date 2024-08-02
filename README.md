@@ -112,7 +112,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ### 📝 License
 
-This project is licensed under the Apache License, Version 2.0. See the LICENSE.txt file for details.
+This project is licensed under the Apache License, Version 2.0. See the [LICENSE](https://github.com/satyam671/COVID-19-Data-Analysis-Using-PySpark/blob/main/LICENSE) file for details.
 
 ### 🙏 Acknowledgements
 
