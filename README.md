@@ -1,4 +1,5 @@
 # COVID-19 Data Analysis Using PySpark
+![1_y2SsUh89eQShLdIipSO4eg](https://github.com/user-attachments/assets/1bc9403b-6b33-443d-8286-9640b4d9bf88)
 
 ## Decoding the Pandemic: A Big Data Approach
 
@@ -107,7 +108,7 @@ For a detailed overview of the findings, please take a look at the results secti
 
 ### 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/satyam671/COVID-19-Data-Analysis-With-Pyspark/main/issues) if you want to contribute.
 
 ### 📝 License
 
